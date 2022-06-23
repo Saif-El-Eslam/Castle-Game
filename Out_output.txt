@@ -1,0 +1,8 @@
+Game is Lose
+KTS	ID	FD	KD	LT
+.................................................
+.................................................
+Castle Total Damage =2.1019 
+Total Enemies = 24
+Average First-Shot Delay =-nan(ind)
+Average Kill Delay =-nan(ind)
